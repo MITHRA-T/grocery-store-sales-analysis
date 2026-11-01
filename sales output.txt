@@ -1,0 +1,33 @@
+ GROCERY SALES DATA
+    Product  January  February  March  April  Total Sales
+       Rice     5000      6000   7000   6500        24500
+       Milk     3000      3500   4000   4500        15000
+      Sugar     2000      2300   2500   2700         9500
+Cooking Oil     4500      4800   5200   5500        20000
+Wheat Flour     2500      2700   3000   3200        11400
+   Biscuits     1800      2000   2200   2500         8500
+       Eggs     2200      2400   2600   2800        10000
+      Bread     1500      1700   1900   2100         7200
+     Fruits     2800      3000   3400   3600        12800
+ Vegetables     3200      3500   3800   4000        14500
+
+TOTAL SALES: Rs. 133400
+BEST SELLING PRODUCT: Rice
+LOWEST SELLING PRODUCT: Bread
+
+Monthly Sales:
+January     28500
+February    31900
+March       35600
+April       37400
+dtype: int64
+
+Category Sales:
+Staples       65400
+Dairy         25000
+Snacks         8500
+Bakery         7200
+Fresh Food    27300
+dtype: int64
+
+Dashboard saved as grocery_sales_dashboard.png
